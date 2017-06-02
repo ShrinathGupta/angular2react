@@ -28,7 +28,7 @@
   "homepage": "https://github.com/coatue-oss/angular2react#readme",
   "devDependencies": {
     "@types/angular-mocks": "^1.5.9",
-    "@types/jasmine": "^2.5.44",
+    "@types/jasmine": "^2.5.50",
     "@types/lodash.kebabcase": "^4.1.2",
     "@types/react-addons-test-utils": "^0.14.17",
     "angular-mocks": "^1.6.2",
